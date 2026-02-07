@@ -1,8 +1,6 @@
 # Import libraries
 
 import pandas as pd
-
-#Assign variable 
+# Assing variable
 
 x = 5
-y = x - 3
