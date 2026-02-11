@@ -7,10 +7,3 @@ import numpy as np
 
 x = 5
 y = x - 3
-
-
-z - y
-
-
-#I should import full dataset N
-
